@@ -1,28 +1,17 @@
-# create-svelte
+# SvelteKit (ts) + Tailwind 3 + a17
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Starter template with all the above goodies loaded.
 
-## Creating a project
+Extras:
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [tailwindcss prettier plugin](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier) for automatic class sorting.
 
-```bash
-# create a new project in the current directory
-npm init svelte
 
-# create a new project in my-app
-npm init svelte my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Start
 
 ```bash
+npm i # or pnpm or yarn
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
 
 ## Building
