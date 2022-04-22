@@ -4,6 +4,7 @@ Starter template with all the above goodies loaded.
 
 Extras:
 
+- prettier with 4 tab + es5 trailing comma config
 - [tailwindcss prettier plugin](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier) for automatic class sorting.
 
 
